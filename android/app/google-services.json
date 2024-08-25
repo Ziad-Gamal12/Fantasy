@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589876122141",
+    "project_id": "cinma-ffcdd",
+    "storage_bucket": "cinma-ffcdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589876122141:android:04158a627ff46c9241ecf4",
+        "android_client_info": {
+          "package_name": "com.example.fantasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-gnSx_NmxNtZ-LiUOqUtPNXEE9p_Z3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
