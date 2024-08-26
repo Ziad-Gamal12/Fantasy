@@ -1,4 +1,5 @@
 import 'package:fantasy/Features/Splash/presentation/views/widgets/Splashview_body.dart';
+import 'package:fantasy/constant.dart';
 import 'package:flutter/material.dart';
 
 class Splashview extends StatelessWidget {
@@ -7,6 +8,7 @@ class Splashview extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: MainColor,
       body: Splashview_body(),
     );
   }
